@@ -1,0 +1,3 @@
+[submodule "autotech-config-server"]
+	path = autotech-config-server
+	url = https://github.com/RaphaelMun1z/autotech-config-server
