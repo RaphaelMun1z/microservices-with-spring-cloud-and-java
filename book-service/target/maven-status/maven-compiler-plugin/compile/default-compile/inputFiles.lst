@@ -1,0 +1,11 @@
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\config\OpenApiConfiguration.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\config\WebConfig.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\config\ZipkinCustomSenderConfig.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\controllers\BookController.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\controllers\FooBarController.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\dto\Exchange.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\entities\Book.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\environment\InstanceInformationService.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\proxy\ExchangeProxy.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\repositories\BookRepository.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\book-service\src\main\java\br\com\autotechsistemas\Startup.java

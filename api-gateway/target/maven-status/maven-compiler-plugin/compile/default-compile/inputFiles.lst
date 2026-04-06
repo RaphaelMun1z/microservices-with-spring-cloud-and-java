@@ -1,0 +1,6 @@
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\api-gateway\src\main\java\br\com\autotechsistemas\config\ApiGatewayConfiguration.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\api-gateway\src\main\java\br\com\autotechsistemas\config\CorsConfig.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\api-gateway\src\main\java\br\com\autotechsistemas\config\OpenApiConfiguration.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\api-gateway\src\main\java\br\com\autotechsistemas\config\ZipkinCustomSenderConfig.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\api-gateway\src\main\java\br\com\autotechsistemas\filter\LoggingFilter.java
+C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\curso-microservicos\api-gateway\src\main\java\br\com\autotechsistemas\Startup.java

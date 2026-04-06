@@ -1,0 +1,14 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: spring-cloud-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/RaphaelMun1z/autotech-config-server
+          search-paths: 'greeting-service*'
+#  profiles:
+#    active:
+#      - native

@@ -1,0 +1,11 @@
+br\com\autotechsistemas\config\OpenApiConfiguration.class
+br\com\autotechsistemas\Startup.class
+br\com\autotechsistemas\controllers\FooBarController.class
+br\com\autotechsistemas\config\WebConfig.class
+br\com\autotechsistemas\entities\Book.class
+br\com\autotechsistemas\controllers\BookController.class
+br\com\autotechsistemas\config\ZipkinCustomSenderConfig.class
+br\com\autotechsistemas\dto\Exchange.class
+br\com\autotechsistemas\environment\InstanceInformationService.class
+br\com\autotechsistemas\proxy\ExchangeProxy.class
+br\com\autotechsistemas\repositories\BookRepository.class

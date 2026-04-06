@@ -1,0 +1,5 @@
+br\com\autotechsistemas\config\OpenApiConfiguration.class
+br\com\autotechsistemas\Startup.class
+br\com\autotechsistemas\config\CorsConfig.class
+br\com\autotechsistemas\config\ZipkinCustomSenderConfig.class
+br\com\autotechsistemas\filter\LoggingFilter.class

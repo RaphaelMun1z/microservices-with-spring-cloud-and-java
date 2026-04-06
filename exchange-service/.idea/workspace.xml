@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="817de362-a71a-42a5-bbd8-e5334982ff11" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BpaJQuRhBAJc8pX6eMcrm5614r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.exchange-service [clean,package].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;New/updated database configurations found&quot;,
+    &quot;Notification.DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.Startup 8000.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Startup 8001.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Startup.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rapha/Documents/Projetos/AutotechProjetos/Back/curso-microservicos/exchange-service&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\exchange-service\src\main\java\br\com\autotechsistemas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rapha\Documents\Projetos\AutotechProjetos\Back\exchange-service\src\main\resources\db\migration" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.autotechsistemas.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Startup 8000">
+    <configuration name="Startup 8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exchange-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.autotechsistemas.Startup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Startup 8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="exchange-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.autotechsistemas.Startup" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Startup 8000" />
+      <item itemvalue="Spring Boot.Startup 8001" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="817de362-a71a-42a5-bbd8-e5334982ff11" name="Changes" comment="" />
+      <created>1775188395989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775188395989</updated>
+      <workItem from="1775188397476" duration="1499000" />
+      <workItem from="1775236042377" duration="9078000" />
+      <workItem from="1775262236891" duration="6668000" />
+      <workItem from="1775326843374" duration="2282000" />
+      <workItem from="1775343686664" duration="4861000" />
+      <workItem from="1775413726679" duration="1853000" />
+      <workItem from="1775422157979" duration="634000" />
+      <workItem from="1775423285865" duration="603000" />
+      <workItem from="1775433804770" duration="1662000" />
+      <workItem from="1775437286810" duration="412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

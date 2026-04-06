@@ -1,0 +1,8 @@
+br\com\autotechsistemas\config\OpenApiConfiguration.class
+br\com\autotechsistemas\Startup.class
+br\com\autotechsistemas\controllers\ExchangeController.class
+br\com\autotechsistemas\repositories\ExchangeRepository.class
+br\com\autotechsistemas\entities\Exchange.class
+br\com\autotechsistemas\config\WebConfig.class
+br\com\autotechsistemas\config\ZipkinCustomSenderConfig.class
+br\com\autotechsistemas\environment\InstanceInformationService.class
